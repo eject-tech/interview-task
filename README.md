@@ -1,20 +1,18 @@
-Welcome to Eject's coding challenge repository!
-
-Please spend the next hour completing the following task.
+## Welcome to Eject's coding challenge repository!
 
 We wish to build a webpage that displays a 7 day weather forecast for Birmingham, based on the simple wireframe below. We wish to use Next.js for this project. We wish to source our forecast data for this page from the [Open Meteo API](https://open-meteo.com/).
 
-Please produce a version of this webpage that leverages actual forecast data from the API within the allotted time. You can utilise any development tools, information sources or packages you feel would help you complete the task. Please treat this as a pair programming exercise and discuss your thinking out loud as you proceed through the task.
+Please produce a version of this webpage that leverages actual forecast data from the API. You can utilise any development tools, information sources or packages you feel would help you complete the task. Please treat this as a pair programming exercise and discuss your thinking out loud as you proceed through the task.
 
 This repository has been initialised with an existing Hello World page on pages/index.tsx. The Fetch package is available to make API calls. A server-rendering function has also been provisioned if you wish to leverage it.
 
 You can ask any questions you wish. There is no right answer to this challenge, we just wish to gain an understanding of your current skill level and thinking processes!
 
-The default Readme file for Next.js is published below for reference.
-
 **Example Wireframe**
 
 ![Page Wireframe](wireframe.png)
+
+The default Readme file for Next.js is published below for reference.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
