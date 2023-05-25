@@ -12,6 +12,8 @@ You can ask any questions you wish. There is no right answer to this challenge, 
 
 The default Readme file for Next.js is published below for reference.
 
+**Example Wireframe**
+
 ![Page Wireframe](wireframe.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
